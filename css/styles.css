@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #000080;
+  background-color: #0d0d24;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
@@ -27,8 +27,8 @@ section {
 }
 
 section h2 {
-  color: #000080;
-  border-bottom: 2px solid #000080;
+  color: #0d0d24;
+  border-bottom: 2px solid #0d0d24;
   padding-bottom: 0.3rem;
 }
 
@@ -60,4 +60,5 @@ footer {
   object-fit: cover;
   border: 3px solid white;
 }
+
 
